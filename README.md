@@ -10,8 +10,11 @@
  The files are separated by month and each has the following columns:
 
   Date/Time : The date and time of the Uber pickup
+  
   Lat : The latitude of the Uber pickup
+  
   Lon : The longitude of the Uber pickup
+  
   Base : The TLC base company code affiliated with the Uber pickup
 
   Using analytical techniques, attributes such as the day and hour atwhich maximum Uber rides take place, the month with the maximum Uber rides, number of monthly rides, etc. are analyzed.
