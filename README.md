@@ -17,6 +17,6 @@
   
   Base : The TLC base company code affiliated with the Uber pickup
 
-  Using analytical techniques, attributes such as the day and hour atwhich maximum Uber rides take place, the month with the maximum Uber rides, number of monthly rides, etc. are analyzed.
+  Using analytical techniques, attributes such as the day and hour at which maximum Uber rides take place, the month with the maximum Uber rides, number of monthly rides, etc. are analyzed.
 
   Finally, a Demand Vs Supply chart has been plotted using matplot to find out the most successful base.
